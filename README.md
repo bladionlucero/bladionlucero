@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+- :art: I'm a UX/UI designer
+- 🌱 I’m currently (re)learning how to code via 100Devs
+- 😄 Pronouns: she/her
 
 <!--
 **bladionlucero/bladionlucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
