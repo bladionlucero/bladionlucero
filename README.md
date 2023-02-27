@@ -1,7 +1,6 @@
 ### Hello there 👋
 
 - :art: I'm a digital product designer
-- 🌱 I’m currently (re)learning how to code via 100Devs
 - 😄 Pronouns: she/her
 
 <!--
