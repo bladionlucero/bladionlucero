@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![Test](https://github.com/bladionlucero/bladionlucero/blob/main/gh-banner.png)
+![Brittany Ladion-Lucero | Designer & Developer](https://github.com/bladionlucero/bladionlucero/blob/main/gh-banner.png)
 
 - :art: I'm a digital product designer
 - 😄 Pronouns: she/her
