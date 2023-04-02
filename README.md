@@ -1,8 +1,9 @@
 ![Brittany Ladion-Lucero | Designer & Developer](https://github.com/bladionlucero/bladionlucero/blob/main/gh-banner.png)
 
-## Hello there, I'm Brittany Ladion-Lucero. 👋
+## Meet Brittany Ladion-Lucero 👋
 
-- :art: I'm a digital product designer
+- :art: Digital product designer
+- 👩🏽‍💻 Software engineer
 - 😄 Pronouns: she/her
 
 <!--
