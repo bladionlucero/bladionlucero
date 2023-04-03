@@ -2,8 +2,7 @@
 
 ## Meet Brittany Ladion-Lucero (or Britt for short) 👋
 
-I’m a digital product (UX/UI) designer and full-stack software engineer.
-So…I guess you can call me a ~~ux engineer~~ ~~design technologist~~ person living their life at the intersection of design and code. Whew, that's...a lot.
+I’m a digital product (UX/UI) designer and full-stack software engineer.<br>So…I guess you can call me a ~~ux engineer~~ ~~design technologist~~ person living their life at the intersection of design and code. Whew, that's...a lot.
 
 Anyway! You can also visit [my website](https://www.brittanydoes.design/) to learn a little bit more about me and the work I've done.
 
