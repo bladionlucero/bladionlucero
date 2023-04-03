@@ -1,10 +1,10 @@
 ![Brittany Ladion-Lucero | Designer & Developer](https://github.com/bladionlucero/bladionlucero/blob/main/gh-banner.png)
 
-## Meet Brittany Ladion-Lucero (or Britt for short) – 👋
+## Meet Brittany Ladion-Lucero (or Britt for short) 👋
 
-- :art: Digital product designer
-- 👩🏽‍💻 Software engineer
-- 😄 Pronouns: she/her
+I’m a digital product (UX/UI) designer and full-stack software engineer. So…I guess you can call me a ~~ux engineer~~ ~~design technologist~~ person living their life at the intersection of design and code. Whew, that's...a lot.
+
+Anyway! You can also visit [my website](https://www.brittanydoes.design/) to learn a little bit more about me and the work I've done.
 
 <!--
 **bladionlucero/bladionlucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
