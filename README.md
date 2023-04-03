@@ -1,6 +1,6 @@
 ![Brittany Ladion-Lucero | Designer & Developer](https://github.com/bladionlucero/bladionlucero/blob/main/gh-banner.png)
 
-## Meet Brittany Ladion-Lucero 👋
+## Meet Brittany Ladion-Lucero (or Britt for short) – 👋
 
 - :art: Digital product designer
 - 👩🏽‍💻 Software engineer
